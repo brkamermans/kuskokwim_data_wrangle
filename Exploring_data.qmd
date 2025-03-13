@@ -1,0 +1,192 @@
+---
+title: "exploring_escapement_data"
+format: html
+editor: visual
+---
+
+## Download data
+
+ADF&G has open access escapement data. To download data see [https://www.adfg.alaska](https://www.adfg.alaska.gov/CF_R3/external/sites/aykdbms_website/DataSelection.aspx){.uri}.
+
+## Running Code
+
+```{r}
+# clear previous work
+cat("\f")                           # clear console
+rm(list=ls())                       # clear environment
+
+# load packages
+library(tidyverse)
+library(lubridate)
+library(dplyr)
+```
+
+You set up your working directory. The 'echo: false' option disables the printing of code (only output is displayed)
+
+```{r}
+
+#| echo: false
+
+## Set your working directory to where your csv file is saved (MODIFY AS NEEDED):
+setwd("/Users/brandikamermans/Library/CloudStorage/GoogleDrive-brkamermans@alaska.edu/Shared drives/Kuskokwim salmon eDNA/")
+
+# Escapement data
+escapement <- read_csv("./Data/ADFG_test/data_tidy_escapement_allYrs.csv") 
+```
+
+Explore the data by using colnames(), str(), head(), summary(), and unique(). The summary provides an overview of all the years for fish.count. The unique() helps to determined which values are uniques in the column that is river.
+
+```{r}
+
+#| echo: false
+
+## Prints the column names of my data frame
+colnames(escapement)
+
+## General structure of the data frame - shows class of each column
+str(escapement)
+
+## First 6 lines of the data frame
+head(escapement)
+
+## Summary of each column of data
+summary(escapement)
+
+## Prints unique values in a column (in this case Date)
+unique(escapement$river)
+```
+
+## Data wrangling (strangling)
+
+Let's check out what these dates look like in the different rivers. The Takotna river is in a different format (%y-%m-%d) from Takotna and George ("%m/%d/%y")!
+
+```{r}
+
+str(escapement$date)
+
+```
+
+In order to change with escapement$date <- as.Date(escapement$date), we need separate the datasets for the three different rivers.
+
+```{r}
+george.esc <- escapement %>% 
+  filter(river == "George River")
+
+kwethluk.esc <- escapement %>% 
+  filter(river == "Kwethluk River")
+
+takotna.esc <- escapement %>% 
+  filter(river == "Takotna River")
+```
+
+```{r}
+#for george 
+george.esc.clean <- george.esc %>% 
+  mutate(date.new = as.Date(date, format = "%m/%d/%y"))
+
+# for kwethluk
+kwethluk.esc.clean <- kwethluk.esc %>% 
+  mutate(date.new = as.Date(date, format = "%m/%d/%y"))
+
+takotna.esc.clean <- takotna.esc %>%
+  mutate(date.new = as.Date(date, format = "%m/%d/%y"))
+
+```
+
+There are three values we are interested in keeping. These are the rivers, year, mon.day, date.new, river, species, fish.count
+
+```{r}
+#for george
+escapement.george.clean <- george.esc.clean %>%
+# select columns we want to keep
+select(river, year, mon.day, date.new, fish.count, species)
+
+#for kwethluk
+escapement.kwethluk.clean <- kwethluk.esc.clean %>%
+# select columns we want to keep
+select(river, year, mon.day, date.new, fish.count, species)
+
+#for takotna
+escapement.takotna.clean <- takotna.esc.clean %>%
+# select columns we want to keep
+select(river, year, mon.day, date.new, fish.count, species)
+```
+
+We are interested only in the year 2023 for this data wrangling exercise.
+
+```{r}
+#for george
+george.esc.2023 <- george.esc.clean %>%
+   filter(year > 2022)
+
+#for kwethluk
+kwethluk.esc.2023 <- kwethluk.esc.clean %>%
+   filter(year > 2022)
+
+#for takotna
+takotna.esc.2023 <- takotna.esc.clean %>%
+   filter(year > 2022)
+```
+
+```{r}
+unique(george.esc.2023$year)
+unique(kwethluk.esc.2023$year)
+unique (takotna.esc.2023$year)
+```
+
+```{r}
+plot(george.esc.2023$date.new, george.esc.2023$fish.count)
+
+```
+
+```{r}
+plot(kwethluk.esc.2023$date.new, kwethluk.esc.2023$fish.count)
+
+```
+
+```{r}
+#plot(takotna.esc.2023$date.new, takotna.esc.2023$fish.count)
+
+```
+
+We are interested in Chinook and chum so we will filter out these values.
+
+```{r}
+# for george
+chinook.chum.george.esc.2023 <- george.esc.2023 %>%
+  filter(!species %in% c("Coho", "Sockeye"))
+
+#for kwethluk
+chinook.chum.kwethluk.esc.2023 <- kwethluk.esc.2023 %>%
+  filter(!species %in% c("Coho", "Sockeye"))
+
+#for takotna
+chinook.chum.takotna.esc.2023 <- takotna.esc.2023 %>%
+  filter(!species %in% c("Coho", "Sockeye"))
+```
+
+```{r}
+unique(chinook.chum.george.esc.2023$species)
+unique(chinook.chum.kwethluk.esc.2023$species)
+unique(chinook.chum.takotna.esc.2023$species)
+```
+
+Success! We only have data from George River, Kwethluk River, Taktona River from 2023. These adata only include fish counts from Chinook and Chum.
+
+```{r}
+plot(chinook.chum.george.esc.2023$date.new, chinook.chum.george.esc.2023$fish.count)
+```
+
+```{r}
+plot(chinook.chum.kwethluk.esc.2023$date.new, chinook.chum.kwethluk.esc.2023$fish.count)
+```
+
+```{r}
+#| echo: false
+
+#plot(chinook.chum.takotna.esc.2023$date.new, chinook.chum.takotna.esc.2023$fish.count)
+```
+
+## Recap so far
+
+We have downloaded the escapement data from ADF&G. We have explored the data file. We have filtered the data for the year 2023 and Chinook and Chum. We verified with data visualization to ensure we have the Chum and Chinook datasets we are looking for. The only data that isn't working is Takotna due to date column being different and need to work with lubridate to make a date that can be used.
