@@ -1,0 +1,945 @@
+,year,mon.day,date,river,bank,species,fish.count,comments,run_desc,run,maturity,proj.id,proj,count.type
+1,2023,15-Jun,6/15/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+2,2023,16-Jun,6/16/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+3,2023,17-Jun,6/17/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+4,2023,18-Jun,6/18/23,George River,Entire Channel,Chinook,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+5,2023,19-Jun,6/19/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+6,2023,20-Jun,6/20/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+7,2023,21-Jun,6/21/23,George River,Entire Channel,Chinook,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+8,2023,22-Jun,6/22/23,George River,Entire Channel,Chinook,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+9,2023,23-Jun,6/23/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+10,2023,24-Jun,6/24/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+11,2023,25-Jun,6/25/23,George River,Entire Channel,Chinook,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+12,2023,26-Jun,6/26/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+13,2023,27-Jun,6/27/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+14,2023,28-Jun,6/28/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+15,2023,29-Jun,6/29/23,George River,Entire Channel,Chinook,3,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+16,2023,30-Jun,6/30/23,George River,Entire Channel,Chinook,8,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+17,2023,1-Jul,7/1/23,George River,Entire Channel,Chinook,7,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+18,2023,2-Jul,7/2/23,George River,Entire Channel,Chinook,10,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+19,2023,3-Jul,7/3/23,George River,Entire Channel,Chinook,3,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+20,2023,4-Jul,7/4/23,George River,Entire Channel,Chinook,12,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+21,2023,5-Jul,7/5/23,George River,Entire Channel,Chinook,3,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+22,2023,6-Jul,7/6/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+23,2023,7-Jul,7/7/23,George River,Entire Channel,Chinook,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+24,2023,8-Jul,7/8/23,George River,Entire Channel,Chinook,10,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+25,2023,9-Jul,7/9/23,George River,Entire Channel,Chinook,15,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+26,2023,10-Jul,7/10/23,George River,Entire Channel,Chinook,239,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+27,2023,11-Jul,7/11/23,George River,Entire Channel,Chinook,729,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+28,2023,12-Jul,7/12/23,George River,Entire Channel,Chinook,286,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+29,2023,13-Jul,7/13/23,George River,Entire Channel,Chinook,198,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+30,2023,14-Jul,7/14/23,George River,Entire Channel,Chinook,164,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+31,2023,15-Jul,7/15/23,George River,Entire Channel,Chinook,5,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+32,2023,16-Jul,7/16/23,George River,Entire Channel,Chinook,204,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+33,2023,17-Jul,7/17/23,George River,Entire Channel,Chinook,25,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+34,2023,18-Jul,7/18/23,George River,Entire Channel,Chinook,36,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+35,2023,19-Jul,7/19/23,George River,Entire Channel,Chinook,202,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+36,2023,20-Jul,7/20/23,George River,Entire Channel,Chinook,87,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+37,2023,21-Jul,7/21/23,George River,Entire Channel,Chinook,38,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+38,2023,22-Jul,7/22/23,George River,Entire Channel,Chinook,105,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+39,2023,23-Jul,7/23/23,George River,Entire Channel,Chinook,73,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+40,2023,24-Jul,7/24/23,George River,Entire Channel,Chinook,91,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+41,2023,25-Jul,7/25/23,George River,Entire Channel,Chinook,71,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+42,2023,26-Jul,7/26/23,George River,Entire Channel,Chinook,24,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+43,2023,27-Jul,7/27/23,George River,Entire Channel,Chinook,30,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+44,2023,28-Jul,7/28/23,George River,Entire Channel,Chinook,7,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+45,2023,29-Jul,7/29/23,George River,Entire Channel,Chinook,18,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+46,2023,30-Jul,7/30/23,George River,Entire Channel,Chinook,25,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+47,2023,31-Jul,7/31/23,George River,Entire Channel,Chinook,17,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+48,2023,1-Aug,8/1/23,George River,Entire Channel,Chinook,22,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+49,2023,2-Aug,8/2/23,George River,Entire Channel,Chinook,15,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+50,2023,3-Aug,8/3/23,George River,Entire Channel,Chinook,7,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+51,2023,4-Aug,8/4/23,George River,Entire Channel,Chinook,4,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+52,2023,5-Aug,8/5/23,George River,Entire Channel,Chinook,2,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+53,2023,6-Aug,8/6/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+54,2023,7-Aug,8/7/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+55,2023,8-Aug,8/8/23,George River,Entire Channel,Chinook,9,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+56,2023,9-Aug,8/9/23,George River,Entire Channel,Chinook,7,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+57,2023,10-Aug,8/10/23,George River,Entire Channel,Chinook,5,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+58,2023,11-Aug,8/11/23,George River,Entire Channel,Chinook,5,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+59,2023,12-Aug,8/12/23,George River,Entire Channel,Chinook,3,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+60,2023,13-Aug,8/13/23,George River,Entire Channel,Chinook,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+61,2023,14-Aug,8/14/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+62,2023,15-Aug,8/15/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+63,2023,16-Aug,8/16/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+64,2023,17-Aug,8/17/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+65,2023,18-Aug,8/18/23,George River,Entire Channel,Chinook,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+66,2023,19-Aug,8/19/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+67,2023,20-Aug,8/20/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+68,2023,21-Aug,8/21/23,George River,Entire Channel,Chinook,2,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+69,2023,22-Aug,8/22/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+70,2023,23-Aug,8/23/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+71,2023,24-Aug,8/24/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+72,2023,25-Aug,8/25/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+73,2023,26-Aug,8/26/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+74,2023,27-Aug,8/27/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+75,2023,28-Aug,8/28/23,George River,Entire Channel,Chinook,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+76,2023,29-Aug,8/29/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+77,2023,30-Aug,8/30/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+78,2023,31-Aug,8/31/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+79,2023,1-Sep,9/1/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+80,2023,2-Sep,9/2/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+81,2023,3-Sep,9/3/23,George River,Entire Channel,Chinook,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+82,2023,4-Sep,9/4/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+83,2023,5-Sep,9/5/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+84,2023,6-Sep,9/6/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+85,2023,7-Sep,9/7/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+86,2023,8-Sep,9/8/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+87,2023,9-Sep,9/9/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+88,2023,10-Sep,9/10/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+89,2023,11-Sep,9/11/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+90,2023,12-Sep,9/12/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+91,2023,13-Sep,9/13/23,George River,Entire Channel,Chinook,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+92,2023,14-Sep,9/14/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+93,2023,15-Sep,9/15/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+94,2023,16-Sep,9/16/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+95,2023,17-Sep,9/17/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+96,2023,18-Sep,9/18/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+97,2023,19-Sep,9/19/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+98,2023,20-Sep,9/20/23,George River,Entire Channel,Chinook,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+99,2023,15-Jun,6/15/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+100,2023,16-Jun,6/16/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+101,2023,17-Jun,6/17/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+102,2023,18-Jun,6/18/23,George River,Entire Channel,Chum,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+103,2023,19-Jun,6/19/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+104,2023,20-Jun,6/20/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+105,2023,21-Jun,6/21/23,George River,Entire Channel,Chum,2,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+106,2023,22-Jun,6/22/23,George River,Entire Channel,Chum,0,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+107,2023,23-Jun,6/23/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+108,2023,24-Jun,6/24/23,George River,Entire Channel,Chum,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+109,2023,25-Jun,6/25/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+110,2023,26-Jun,6/26/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+111,2023,27-Jun,6/27/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+112,2023,28-Jun,6/28/23,George River,Entire Channel,Chum,4,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+113,2023,29-Jun,6/29/23,George River,Entire Channel,Chum,16,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+114,2023,30-Jun,6/30/23,George River,Entire Channel,Chum,33,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+115,2023,1-Jul,7/1/23,George River,Entire Channel,Chum,24,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+116,2023,2-Jul,7/2/23,George River,Entire Channel,Chum,38,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+117,2023,3-Jul,7/3/23,George River,Entire Channel,Chum,17,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+118,2023,4-Jul,7/4/23,George River,Entire Channel,Chum,31,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+119,2023,5-Jul,7/5/23,George River,Entire Channel,Chum,19,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+120,2023,6-Jul,7/6/23,George River,Entire Channel,Chum,16,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+121,2023,7-Jul,7/7/23,George River,Entire Channel,Chum,22,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+122,2023,8-Jul,7/8/23,George River,Entire Channel,Chum,42,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+123,2023,9-Jul,7/9/23,George River,Entire Channel,Chum,90,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+124,2023,10-Jul,7/10/23,George River,Entire Channel,Chum,249,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+125,2023,11-Jul,7/11/23,George River,Entire Channel,Chum,465,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+126,2023,12-Jul,7/12/23,George River,Entire Channel,Chum,377,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+127,2023,13-Jul,7/13/23,George River,Entire Channel,Chum,228,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+128,2023,14-Jul,7/14/23,George River,Entire Channel,Chum,209,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+129,2023,15-Jul,7/15/23,George River,Entire Channel,Chum,121,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+130,2023,16-Jul,7/16/23,George River,Entire Channel,Chum,237,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+131,2023,17-Jul,7/17/23,George River,Entire Channel,Chum,127,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+132,2023,18-Jul,7/18/23,George River,Entire Channel,Chum,261,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+133,2023,19-Jul,7/19/23,George River,Entire Channel,Chum,430,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+134,2023,20-Jul,7/20/23,George River,Entire Channel,Chum,504,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+135,2023,21-Jul,7/21/23,George River,Entire Channel,Chum,235,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+136,2023,22-Jul,7/22/23,George River,Entire Channel,Chum,501,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+137,2023,23-Jul,7/23/23,George River,Entire Channel,Chum,540,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+138,2023,24-Jul,7/24/23,George River,Entire Channel,Chum,523,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+139,2023,25-Jul,7/25/23,George River,Entire Channel,Chum,535,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+140,2023,26-Jul,7/26/23,George River,Entire Channel,Chum,606,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+141,2023,27-Jul,7/27/23,George River,Entire Channel,Chum,582,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+142,2023,28-Jul,7/28/23,George River,Entire Channel,Chum,438,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+143,2023,29-Jul,7/29/23,George River,Entire Channel,Chum,470,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+144,2023,30-Jul,7/30/23,George River,Entire Channel,Chum,604,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+145,2023,31-Jul,7/31/23,George River,Entire Channel,Chum,1022,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+146,2023,1-Aug,8/1/23,George River,Entire Channel,Chum,761,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+147,2023,2-Aug,8/2/23,George River,Entire Channel,Chum,639,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+148,2023,3-Aug,8/3/23,George River,Entire Channel,Chum,523,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+149,2023,4-Aug,8/4/23,George River,Entire Channel,Chum,367,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+150,2023,5-Aug,8/5/23,George River,Entire Channel,Chum,422,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+151,2023,6-Aug,8/6/23,George River,Entire Channel,Chum,94,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+152,2023,7-Aug,8/7/23,George River,Entire Channel,Chum,183,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+153,2023,8-Aug,8/8/23,George River,Entire Channel,Chum,148,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+154,2023,9-Aug,8/9/23,George River,Entire Channel,Chum,164,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+155,2023,10-Aug,8/10/23,George River,Entire Channel,Chum,359,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+156,2023,11-Aug,8/11/23,George River,Entire Channel,Chum,202,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+157,2023,12-Aug,8/12/23,George River,Entire Channel,Chum,122,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+158,2023,13-Aug,8/13/23,George River,Entire Channel,Chum,223,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+159,2023,14-Aug,8/14/23,George River,Entire Channel,Chum,124,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+160,2023,15-Aug,8/15/23,George River,Entire Channel,Chum,61,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+161,2023,16-Aug,8/16/23,George River,Entire Channel,Chum,219,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+162,2023,17-Aug,8/17/23,George River,Entire Channel,Chum,132,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+163,2023,18-Aug,8/18/23,George River,Entire Channel,Chum,144,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+164,2023,19-Aug,8/19/23,George River,Entire Channel,Chum,87,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+165,2023,20-Aug,8/20/23,George River,Entire Channel,Chum,155,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+166,2023,21-Aug,8/21/23,George River,Entire Channel,Chum,99,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+167,2023,22-Aug,8/22/23,George River,Entire Channel,Chum,46,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+168,2023,23-Aug,8/23/23,George River,Entire Channel,Chum,77,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+169,2023,24-Aug,8/24/23,George River,Entire Channel,Chum,25,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+170,2023,25-Aug,8/25/23,George River,Entire Channel,Chum,60,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+171,2023,26-Aug,8/26/23,George River,Entire Channel,Chum,68,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+172,2023,27-Aug,8/27/23,George River,Entire Channel,Chum,37,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+173,2023,28-Aug,8/28/23,George River,Entire Channel,Chum,27,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+174,2023,29-Aug,8/29/23,George River,Entire Channel,Chum,31,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+175,2023,30-Aug,8/30/23,George River,Entire Channel,Chum,15,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+176,2023,31-Aug,8/31/23,George River,Entire Channel,Chum,6,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+177,2023,1-Sep,9/1/23,George River,Entire Channel,Chum,10,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+178,2023,2-Sep,9/2/23,George River,Entire Channel,Chum,1,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+179,2023,3-Sep,9/3/23,George River,Entire Channel,Chum,3,partial,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+180,2023,4-Sep,9/4/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+181,2023,5-Sep,9/5/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+182,2023,6-Sep,9/6/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+183,2023,7-Sep,9/7/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+184,2023,8-Sep,9/8/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+185,2023,9-Sep,9/9/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+186,2023,10-Sep,9/10/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+187,2023,11-Sep,9/11/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+188,2023,12-Sep,9/12/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+189,2023,13-Sep,9/13/23,George River,Entire Channel,Chum,NA,inoperable,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+190,2023,14-Sep,9/14/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+191,2023,15-Sep,9/15/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+192,2023,16-Sep,9/16/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+193,2023,17-Sep,9/17/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+194,2023,18-Sep,9/18/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+195,2023,19-Sep,9/19/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+196,2023,20-Sep,9/20/23,George River,Entire Channel,Chum,0,,use for everything BUT Yukon chum,Single Run,Adult,17,George River Escapement,Counted Live
+2276,2022,15-Jun,6/15/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2277,2022,16-Jun,6/16/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2278,2022,17-Jun,6/17/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2279,2022,18-Jun,6/18/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2280,2022,19-Jun,6/19/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2281,2022,20-Jun,6/20/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2282,2022,21-Jun,6/21/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2283,2022,22-Jun,6/22/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2284,2022,23-Jun,6/23/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2285,2022,24-Jun,6/24/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2286,2022,25-Jun,6/25/22,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2287,2022,26-Jun,6/26/22,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2288,2022,27-Jun,6/27/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2289,2022,28-Jun,6/28/22,Kwethluk River,NA,Chinook,11,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2290,2022,29-Jun,6/29/22,Kwethluk River,NA,Chinook,58,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2291,2022,30-Jun,6/30/22,Kwethluk River,NA,Chinook,383,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2292,2022,1-Jul,7/1/22,Kwethluk River,NA,Chinook,471,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2293,2022,2-Jul,7/2/22,Kwethluk River,NA,Chinook,142,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2294,2022,3-Jul,7/3/22,Kwethluk River,NA,Chinook,199,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2295,2022,4-Jul,7/4/22,Kwethluk River,NA,Chinook,126,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2296,2022,5-Jul,7/5/22,Kwethluk River,NA,Chinook,58,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2297,2022,6-Jul,7/6/22,Kwethluk River,NA,Chinook,192,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2298,2022,7-Jul,7/7/22,Kwethluk River,NA,Chinook,40,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2299,2022,8-Jul,7/8/22,Kwethluk River,NA,Chinook,559,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2300,2022,9-Jul,7/9/22,Kwethluk River,NA,Chinook,690,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+2301,2022,10-Jul,7/10/22,Kwethluk River,NA,Chinook,1080,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2302,2022,11-Jul,7/11/22,Kwethluk River,NA,Chinook,936,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2303,2022,12-Jul,7/12/22,Kwethluk River,NA,Chinook,287,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2304,2022,13-Jul,7/13/22,Kwethluk River,NA,Chinook,244,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2305,2022,14-Jul,7/14/22,Kwethluk River,NA,Chinook,193,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2306,2022,15-Jul,7/15/22,Kwethluk River,NA,Chinook,35,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2307,2022,16-Jul,7/16/22,Kwethluk River,NA,Chinook,45,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2308,2022,17-Jul,7/17/22,Kwethluk River,NA,Chinook,243,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2309,2022,18-Jul,7/18/22,Kwethluk River,NA,Chinook,62,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2310,2022,19-Jul,7/19/22,Kwethluk River,NA,Chinook,62,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2311,2022,20-Jul,7/20/22,Kwethluk River,NA,Chinook,33,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2312,2022,21-Jul,7/21/22,Kwethluk River,NA,Chinook,46,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2313,2022,22-Jul,7/22/22,Kwethluk River,NA,Chinook,21,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2314,2022,23-Jul,7/23/22,Kwethluk River,NA,Chinook,13,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2315,2022,24-Jul,7/24/22,Kwethluk River,NA,Chinook,35,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2316,2022,25-Jul,7/25/22,Kwethluk River,NA,Chinook,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2317,2022,26-Jul,7/26/22,Kwethluk River,NA,Chinook,61,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2318,2022,27-Jul,7/27/22,Kwethluk River,NA,Chinook,42,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2319,2022,28-Jul,7/28/22,Kwethluk River,NA,Chinook,61,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2320,2022,29-Jul,7/29/22,Kwethluk River,NA,Chinook,23,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2321,2022,30-Jul,7/30/22,Kwethluk River,NA,Chinook,41,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2322,2022,31-Jul,7/31/22,Kwethluk River,NA,Chinook,8,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2323,2022,1-Aug,8/1/22,Kwethluk River,NA,Chinook,25,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2324,2022,2-Aug,8/2/22,Kwethluk River,NA,Chinook,17,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2325,2022,3-Aug,8/3/22,Kwethluk River,NA,Chinook,10,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2326,2022,4-Aug,8/4/22,Kwethluk River,NA,Chinook,14,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2327,2022,5-Aug,8/5/22,Kwethluk River,NA,Chinook,8,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2328,2022,6-Aug,8/6/22,Kwethluk River,NA,Chinook,12,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2329,2022,7-Aug,8/7/22,Kwethluk River,NA,Chinook,18,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2330,2022,8-Aug,8/8/22,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2331,2022,9-Aug,8/9/22,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2332,2022,10-Aug,8/10/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2333,2022,11-Aug,8/11/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2334,2022,12-Aug,8/12/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2335,2022,13-Aug,8/13/22,Kwethluk River,NA,Chinook,3,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2336,2022,14-Aug,8/14/22,Kwethluk River,NA,Chinook,13,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2337,2022,15-Aug,8/15/22,Kwethluk River,NA,Chinook,11,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2338,2022,16-Aug,8/16/22,Kwethluk River,NA,Chinook,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2339,2022,17-Aug,8/17/22,Kwethluk River,NA,Chinook,16,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2340,2022,18-Aug,8/18/22,Kwethluk River,NA,Chinook,19,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2341,2022,19-Aug,8/19/22,Kwethluk River,NA,Chinook,14,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2342,2022,20-Aug,8/20/22,Kwethluk River,NA,Chinook,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2343,2022,21-Aug,8/21/22,Kwethluk River,NA,Chinook,10,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2344,2022,22-Aug,8/22/22,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2345,2022,23-Aug,8/23/22,Kwethluk River,NA,Chinook,3,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2346,2022,24-Aug,8/24/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2347,2022,25-Aug,8/25/22,Kwethluk River,NA,Chinook,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2348,2022,26-Aug,8/26/22,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2349,2022,27-Aug,8/27/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2350,2022,28-Aug,8/28/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2351,2022,29-Aug,8/29/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2352,2022,30-Aug,8/30/22,Kwethluk River,NA,Chinook,8,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2353,2022,31-Aug,8/31/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2354,2022,1-Sep,9/1/22,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2355,2022,2-Sep,9/2/22,Kwethluk River,NA,Chinook,2,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2356,2022,3-Sep,9/3/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2357,2022,4-Sep,9/4/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2358,2022,5-Sep,9/5/22,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2359,2022,6-Sep,9/6/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2360,2022,7-Sep,9/7/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2361,2022,8-Sep,9/8/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2362,2022,9-Sep,9/9/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2363,2022,10-Sep,9/10/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2364,2022,11-Sep,9/11/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2365,2022,12-Sep,9/12/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2366,2022,13-Sep,9/13/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2367,2022,14-Sep,9/14/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2368,2022,15-Sep,9/15/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2369,2022,16-Sep,9/16/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2370,2022,17-Sep,9/17/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2371,2022,18-Sep,9/18/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2372,2022,19-Sep,9/19/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2373,2022,20-Sep,9/20/22,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2374,2023,15-Jun,6/15/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2375,2023,16-Jun,6/16/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2376,2023,17-Jun,6/17/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2377,2023,18-Jun,6/18/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2378,2023,19-Jun,6/19/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2379,2023,20-Jun,6/20/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2380,2023,21-Jun,6/21/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2381,2023,22-Jun,6/22/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2382,2023,23-Jun,6/23/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2383,2023,24-Jun,6/24/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2384,2023,25-Jun,6/25/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2385,2023,26-Jun,6/26/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2386,2023,27-Jun,6/27/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2387,2023,28-Jun,6/28/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2388,2023,29-Jun,6/29/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2389,2023,30-Jun,6/30/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2390,2023,1-Jul,7/1/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2391,2023,2-Jul,7/2/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2392,2023,3-Jul,7/3/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2393,2023,4-Jul,7/4/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2394,2023,5-Jul,7/5/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2395,2023,6-Jul,7/6/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2396,2023,7-Jul,7/7/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2397,2023,8-Jul,7/8/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2398,2023,9-Jul,7/9/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2399,2023,10-Jul,7/10/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2400,2023,11-Jul,7/11/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2401,2023,12-Jul,7/12/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2402,2023,13-Jul,7/13/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2403,2023,14-Jul,7/14/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2404,2023,15-Jul,7/15/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2405,2023,16-Jul,7/16/23,Kwethluk River,NA,Chinook,308,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2406,2023,17-Jul,7/17/23,Kwethluk River,NA,Chinook,140,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2407,2023,18-Jul,7/18/23,Kwethluk River,NA,Chinook,143,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2408,2023,19-Jul,7/19/23,Kwethluk River,NA,Chinook,264,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2409,2023,20-Jul,7/20/23,Kwethluk River,NA,Chinook,214,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2410,2023,21-Jul,7/21/23,Kwethluk River,NA,Chinook,209,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2411,2023,22-Jul,7/22/23,Kwethluk River,NA,Chinook,174,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2412,2023,23-Jul,7/23/23,Kwethluk River,NA,Chinook,118,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2413,2023,24-Jul,7/24/23,Kwethluk River,NA,Chinook,94,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2414,2023,25-Jul,7/25/23,Kwethluk River,NA,Chinook,71,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2415,2023,26-Jul,7/26/23,Kwethluk River,NA,Chinook,104,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2416,2023,27-Jul,7/27/23,Kwethluk River,NA,Chinook,134,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2417,2023,28-Jul,7/28/23,Kwethluk River,NA,Chinook,183,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2418,2023,29-Jul,7/29/23,Kwethluk River,NA,Chinook,119,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2419,2023,30-Jul,7/30/23,Kwethluk River,NA,Chinook,78,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2420,2023,31-Jul,7/31/23,Kwethluk River,NA,Chinook,87,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2421,2023,1-Aug,8/1/23,Kwethluk River,NA,Chinook,65,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2422,2023,2-Aug,8/2/23,Kwethluk River,NA,Chinook,37,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2423,2023,3-Aug,8/3/23,Kwethluk River,NA,Chinook,13,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2424,2023,4-Aug,8/4/23,Kwethluk River,NA,Chinook,15,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2425,2023,5-Aug,8/5/23,Kwethluk River,NA,Chinook,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2426,2023,6-Aug,8/6/23,Kwethluk River,NA,Chinook,10,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2427,2023,7-Aug,8/7/23,Kwethluk River,NA,Chinook,11,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2428,2023,8-Aug,8/8/23,Kwethluk River,NA,Chinook,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2429,2023,9-Aug,8/9/23,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2430,2023,10-Aug,8/10/23,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2431,2023,11-Aug,8/11/23,Kwethluk River,NA,Chinook,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2432,2023,12-Aug,8/12/23,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2433,2023,13-Aug,8/13/23,Kwethluk River,NA,Chinook,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2434,2023,14-Aug,8/14/23,Kwethluk River,NA,Chinook,8,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2435,2023,15-Aug,8/15/23,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2436,2023,16-Aug,8/16/23,Kwethluk River,NA,Chinook,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2437,2023,17-Aug,8/17/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2438,2023,18-Aug,8/18/23,Kwethluk River,NA,Chinook,2,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2439,2023,19-Aug,8/19/23,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2440,2023,20-Aug,8/20/23,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2441,2023,21-Aug,8/21/23,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2442,2023,22-Aug,8/22/23,Kwethluk River,NA,Chinook,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2443,2023,23-Aug,8/23/23,Kwethluk River,NA,Chinook,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2444,2023,24-Aug,8/24/23,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2445,2023,25-Aug,8/25/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2446,2023,26-Aug,8/26/23,Kwethluk River,NA,Chinook,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2447,2023,27-Aug,8/27/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2448,2023,28-Aug,8/28/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2449,2023,29-Aug,8/29/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2450,2023,30-Aug,8/30/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2451,2023,31-Aug,8/31/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2452,2023,1-Sep,9/1/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2453,2023,2-Sep,9/2/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2454,2023,3-Sep,9/3/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2455,2023,4-Sep,9/4/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2456,2023,5-Sep,9/5/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2457,2023,6-Sep,9/6/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2458,2023,7-Sep,9/7/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2459,2023,8-Sep,9/8/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2460,2023,9-Sep,9/9/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2461,2023,10-Sep,9/10/23,Kwethluk River,NA,Chinook,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2462,2023,11-Sep,9/11/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2463,2023,12-Sep,9/12/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2464,2023,13-Sep,9/13/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2465,2023,14-Sep,9/14/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2466,2023,15-Sep,9/15/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2467,2023,16-Sep,9/16/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2468,2023,17-Sep,9/17/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2469,2023,18-Sep,9/18/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2470,2023,19-Sep,9/19/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+2471,2023,20-Sep,9/20/23,Kwethluk River,NA,Chinook,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4575,2022,15-Jun,6/15/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4576,2022,16-Jun,6/16/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4577,2022,17-Jun,6/17/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4578,2022,18-Jun,6/18/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4579,2022,19-Jun,6/19/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4580,2022,20-Jun,6/20/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4581,2022,21-Jun,6/21/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4582,2022,22-Jun,6/22/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4583,2022,23-Jun,6/23/22,Kwethluk River,NA,Chum,3,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4584,2022,24-Jun,6/24/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4585,2022,25-Jun,6/25/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4586,2022,26-Jun,6/26/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4587,2022,27-Jun,6/27/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4588,2022,28-Jun,6/28/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4589,2022,29-Jun,6/29/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4590,2022,30-Jun,6/30/22,Kwethluk River,NA,Chum,2,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4591,2022,1-Jul,7/1/22,Kwethluk River,NA,Chum,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4592,2022,2-Jul,7/2/22,Kwethluk River,NA,Chum,16,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4593,2022,3-Jul,7/3/22,Kwethluk River,NA,Chum,9,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4594,2022,4-Jul,7/4/22,Kwethluk River,NA,Chum,13,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4595,2022,5-Jul,7/5/22,Kwethluk River,NA,Chum,3,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4596,2022,6-Jul,7/6/22,Kwethluk River,NA,Chum,21,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4597,2022,7-Jul,7/7/22,Kwethluk River,NA,Chum,9,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4598,2022,8-Jul,7/8/22,Kwethluk River,NA,Chum,69,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4599,2022,9-Jul,7/9/22,Kwethluk River,NA,Chum,87,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4600,2022,10-Jul,7/10/22,Kwethluk River,NA,Chum,92,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4601,2022,11-Jul,7/11/22,Kwethluk River,NA,Chum,130,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4602,2022,12-Jul,7/12/22,Kwethluk River,NA,Chum,127,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4603,2022,13-Jul,7/13/22,Kwethluk River,NA,Chum,75,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4604,2022,14-Jul,7/14/22,Kwethluk River,NA,Chum,127,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4605,2022,15-Jul,7/15/22,Kwethluk River,NA,Chum,74,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4606,2022,16-Jul,7/16/22,Kwethluk River,NA,Chum,61,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4607,2022,17-Jul,7/17/22,Kwethluk River,NA,Chum,114,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4608,2022,18-Jul,7/18/22,Kwethluk River,NA,Chum,69,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4609,2022,19-Jul,7/19/22,Kwethluk River,NA,Chum,58,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4610,2022,20-Jul,7/20/22,Kwethluk River,NA,Chum,51,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4611,2022,21-Jul,7/21/22,Kwethluk River,NA,Chum,25,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4612,2022,22-Jul,7/22/22,Kwethluk River,NA,Chum,12,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4613,2022,23-Jul,7/23/22,Kwethluk River,NA,Chum,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4614,2022,24-Jul,7/24/22,Kwethluk River,NA,Chum,32,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4615,2022,25-Jul,7/25/22,Kwethluk River,NA,Chum,31,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4616,2022,26-Jul,7/26/22,Kwethluk River,NA,Chum,66,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4617,2022,27-Jul,7/27/22,Kwethluk River,NA,Chum,86,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4618,2022,28-Jul,7/28/22,Kwethluk River,NA,Chum,95,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4619,2022,29-Jul,7/29/22,Kwethluk River,NA,Chum,100,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4620,2022,30-Jul,7/30/22,Kwethluk River,NA,Chum,49,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4621,2022,31-Jul,7/31/22,Kwethluk River,NA,Chum,28,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4622,2022,1-Aug,8/1/22,Kwethluk River,NA,Chum,22,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4623,2022,2-Aug,8/2/22,Kwethluk River,NA,Chum,47,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4624,2022,3-Aug,8/3/22,Kwethluk River,NA,Chum,41,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4625,2022,4-Aug,8/4/22,Kwethluk River,NA,Chum,65,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4626,2022,5-Aug,8/5/22,Kwethluk River,NA,Chum,27,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4627,2022,6-Aug,8/6/22,Kwethluk River,NA,Chum,70,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4628,2022,7-Aug,8/7/22,Kwethluk River,NA,Chum,44,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4629,2022,8-Aug,8/8/22,Kwethluk River,NA,Chum,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4630,2022,9-Aug,8/9/22,Kwethluk River,NA,Chum,15,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4631,2022,10-Aug,8/10/22,Kwethluk River,NA,Chum,11,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4632,2022,11-Aug,8/11/22,Kwethluk River,NA,Chum,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4633,2022,12-Aug,8/12/22,Kwethluk River,NA,Chum,9,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Estimated
+4634,2022,13-Aug,8/13/22,Kwethluk River,NA,Chum,14,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4635,2022,14-Aug,8/14/22,Kwethluk River,NA,Chum,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4636,2022,15-Aug,8/15/22,Kwethluk River,NA,Chum,18,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4637,2022,16-Aug,8/16/22,Kwethluk River,NA,Chum,24,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4638,2022,17-Aug,8/17/22,Kwethluk River,NA,Chum,12,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4639,2022,18-Aug,8/18/22,Kwethluk River,NA,Chum,16,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4640,2022,19-Aug,8/19/22,Kwethluk River,NA,Chum,17,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4641,2022,20-Aug,8/20/22,Kwethluk River,NA,Chum,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4642,2022,21-Aug,8/21/22,Kwethluk River,NA,Chum,10,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4643,2022,22-Aug,8/22/22,Kwethluk River,NA,Chum,20,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4644,2022,23-Aug,8/23/22,Kwethluk River,NA,Chum,9,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4645,2022,24-Aug,8/24/22,Kwethluk River,NA,Chum,18,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4646,2022,25-Aug,8/25/22,Kwethluk River,NA,Chum,13,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4647,2022,26-Aug,8/26/22,Kwethluk River,NA,Chum,3,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4648,2022,27-Aug,8/27/22,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4649,2022,28-Aug,8/28/22,Kwethluk River,NA,Chum,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4650,2022,29-Aug,8/29/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4651,2022,30-Aug,8/30/22,Kwethluk River,NA,Chum,2,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4652,2022,31-Aug,8/31/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4653,2022,1-Sep,9/1/22,Kwethluk River,NA,Chum,10,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4654,2022,2-Sep,9/2/22,Kwethluk River,NA,Chum,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4655,2022,3-Sep,9/3/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4656,2022,4-Sep,9/4/22,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4657,2022,5-Sep,9/5/22,Kwethluk River,NA,Chum,2,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4658,2022,6-Sep,9/6/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4659,2022,7-Sep,9/7/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4660,2022,8-Sep,9/8/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4661,2022,9-Sep,9/9/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4662,2022,10-Sep,9/10/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4663,2022,11-Sep,9/11/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4664,2022,12-Sep,9/12/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4665,2022,13-Sep,9/13/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4666,2022,14-Sep,9/14/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4667,2022,15-Sep,9/15/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4668,2022,16-Sep,9/16/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4669,2022,17-Sep,9/17/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4670,2022,18-Sep,9/18/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4671,2022,19-Sep,9/19/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4672,2022,20-Sep,9/20/22,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4673,2023,15-Jun,6/15/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4674,2023,16-Jun,6/16/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4675,2023,17-Jun,6/17/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4676,2023,18-Jun,6/18/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4677,2023,19-Jun,6/19/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4678,2023,20-Jun,6/20/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4679,2023,21-Jun,6/21/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4680,2023,22-Jun,6/22/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4681,2023,23-Jun,6/23/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4682,2023,24-Jun,6/24/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4683,2023,25-Jun,6/25/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4684,2023,26-Jun,6/26/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4685,2023,27-Jun,6/27/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4686,2023,28-Jun,6/28/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4687,2023,29-Jun,6/29/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4688,2023,30-Jun,6/30/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4689,2023,1-Jul,7/1/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4690,2023,2-Jul,7/2/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4691,2023,3-Jul,7/3/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4692,2023,4-Jul,7/4/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4693,2023,5-Jul,7/5/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4694,2023,6-Jul,7/6/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4695,2023,7-Jul,7/7/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4696,2023,8-Jul,7/8/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4697,2023,9-Jul,7/9/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4698,2023,10-Jul,7/10/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4699,2023,11-Jul,7/11/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4700,2023,12-Jul,7/12/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4701,2023,13-Jul,7/13/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4702,2023,14-Jul,7/14/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4703,2023,15-Jul,7/15/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4704,2023,16-Jul,7/16/23,Kwethluk River,NA,Chum,251,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4705,2023,17-Jul,7/17/23,Kwethluk River,NA,Chum,299,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4706,2023,18-Jul,7/18/23,Kwethluk River,NA,Chum,154,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4707,2023,19-Jul,7/19/23,Kwethluk River,NA,Chum,344,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4708,2023,20-Jul,7/20/23,Kwethluk River,NA,Chum,277,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4709,2023,21-Jul,7/21/23,Kwethluk River,NA,Chum,410,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4710,2023,22-Jul,7/22/23,Kwethluk River,NA,Chum,413,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4711,2023,23-Jul,7/23/23,Kwethluk River,NA,Chum,185,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4712,2023,24-Jul,7/24/23,Kwethluk River,NA,Chum,214,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4713,2023,25-Jul,7/25/23,Kwethluk River,NA,Chum,250,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4714,2023,26-Jul,7/26/23,Kwethluk River,NA,Chum,245,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4715,2023,27-Jul,7/27/23,Kwethluk River,NA,Chum,379,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4716,2023,28-Jul,7/28/23,Kwethluk River,NA,Chum,299,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4717,2023,29-Jul,7/29/23,Kwethluk River,NA,Chum,531,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4718,2023,30-Jul,7/30/23,Kwethluk River,NA,Chum,261,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4719,2023,31-Jul,7/31/23,Kwethluk River,NA,Chum,353,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4720,2023,1-Aug,8/1/23,Kwethluk River,NA,Chum,418,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4721,2023,2-Aug,8/2/23,Kwethluk River,NA,Chum,382,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4722,2023,3-Aug,8/3/23,Kwethluk River,NA,Chum,178,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4723,2023,4-Aug,8/4/23,Kwethluk River,NA,Chum,250,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4724,2023,5-Aug,8/5/23,Kwethluk River,NA,Chum,140,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4725,2023,6-Aug,8/6/23,Kwethluk River,NA,Chum,113,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4726,2023,7-Aug,8/7/23,Kwethluk River,NA,Chum,161,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4727,2023,8-Aug,8/8/23,Kwethluk River,NA,Chum,129,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4728,2023,9-Aug,8/9/23,Kwethluk River,NA,Chum,66,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4729,2023,10-Aug,8/10/23,Kwethluk River,NA,Chum,100,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4730,2023,11-Aug,8/11/23,Kwethluk River,NA,Chum,127,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4731,2023,12-Aug,8/12/23,Kwethluk River,NA,Chum,100,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4732,2023,13-Aug,8/13/23,Kwethluk River,NA,Chum,83,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4733,2023,14-Aug,8/14/23,Kwethluk River,NA,Chum,51,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4734,2023,15-Aug,8/15/23,Kwethluk River,NA,Chum,39,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4735,2023,16-Aug,8/16/23,Kwethluk River,NA,Chum,45,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4736,2023,17-Aug,8/17/23,Kwethluk River,NA,Chum,40,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4737,2023,18-Aug,8/18/23,Kwethluk River,NA,Chum,39,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4738,2023,19-Aug,8/19/23,Kwethluk River,NA,Chum,36,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4739,2023,20-Aug,8/20/23,Kwethluk River,NA,Chum,51,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4740,2023,21-Aug,8/21/23,Kwethluk River,NA,Chum,51,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4741,2023,22-Aug,8/22/23,Kwethluk River,NA,Chum,24,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4742,2023,23-Aug,8/23/23,Kwethluk River,NA,Chum,35,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4743,2023,24-Aug,8/24/23,Kwethluk River,NA,Chum,30,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4744,2023,25-Aug,8/25/23,Kwethluk River,NA,Chum,21,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4745,2023,26-Aug,8/26/23,Kwethluk River,NA,Chum,21,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4746,2023,27-Aug,8/27/23,Kwethluk River,NA,Chum,21,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4747,2023,28-Aug,8/28/23,Kwethluk River,NA,Chum,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4748,2023,29-Aug,8/29/23,Kwethluk River,NA,Chum,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4749,2023,30-Aug,8/30/23,Kwethluk River,NA,Chum,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4750,2023,31-Aug,8/31/23,Kwethluk River,NA,Chum,7,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4751,2023,1-Sep,9/1/23,Kwethluk River,NA,Chum,6,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4752,2023,2-Sep,9/2/23,Kwethluk River,NA,Chum,5,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4753,2023,3-Sep,9/3/23,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4754,2023,4-Sep,9/4/23,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4755,2023,5-Sep,9/5/23,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4756,2023,6-Sep,9/6/23,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4757,2023,7-Sep,9/7/23,Kwethluk River,NA,Chum,4,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4758,2023,8-Sep,9/8/23,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4759,2023,9-Sep,9/9/23,Kwethluk River,NA,Chum,0,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4760,2023,10-Sep,9/10/23,Kwethluk River,NA,Chum,1,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4761,2023,11-Sep,9/11/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4762,2023,12-Sep,9/12/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4763,2023,13-Sep,9/13/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4764,2023,14-Sep,9/14/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4765,2023,15-Sep,9/15/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4766,2023,16-Sep,9/16/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4767,2023,17-Sep,9/17/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4768,2023,18-Sep,9/18/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4769,2023,19-Sep,9/19/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4770,2023,20-Sep,9/20/23,Kwethluk River,NA,Chum,NA,NA,NA,Single Run,NA,14,Kwethluk River Escapement,Counted Live
+4771,2023,24-Jun,6/24/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4772,2023,24-Jun,6/24/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4773,2023,24-Jun,6/24/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4774,2023,24-Jun,6/24/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4775,2023,25-Jun,6/25/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4776,2023,25-Jun,6/25/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4777,2023,25-Jun,6/25/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4778,2023,25-Jun,6/25/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4779,2023,26-Jun,6/26/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4780,2023,26-Jun,6/26/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4781,2023,26-Jun,6/26/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4782,2023,26-Jun,6/26/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4783,2023,27-Jun,6/27/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4784,2023,27-Jun,6/27/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4785,2023,27-Jun,6/27/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4786,2023,27-Jun,6/27/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4787,2023,28-Jun,6/28/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4788,2023,28-Jun,6/28/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4789,2023,28-Jun,6/28/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4790,2023,28-Jun,6/28/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4791,2023,29-Jun,6/29/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4792,2023,29-Jun,6/29/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4793,2023,29-Jun,6/29/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4794,2023,29-Jun,6/29/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4795,2023,30-Jun,6/30/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4796,2023,30-Jun,6/30/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4797,2023,30-Jun,6/30/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4798,2023,30-Jun,6/30/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4799,2023,1-Jul,7/1/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4800,2023,1-Jul,7/1/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4801,2023,1-Jul,7/1/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4802,2023,1-Jul,7/1/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4803,2023,2-Jul,7/2/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4804,2023,2-Jul,7/2/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4805,2023,2-Jul,7/2/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4806,2023,2-Jul,7/2/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4807,2023,3-Jul,7/3/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4808,2023,3-Jul,7/3/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4809,2023,3-Jul,7/3/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4810,2023,3-Jul,7/3/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4811,2023,4-Jul,7/4/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4812,2023,4-Jul,7/4/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4813,2023,4-Jul,7/4/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4814,2023,4-Jul,7/4/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4815,2023,5-Jul,7/5/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4816,2023,5-Jul,7/5/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4817,2023,5-Jul,7/5/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4818,2023,5-Jul,7/5/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4819,2023,6-Jul,7/6/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4820,2023,6-Jul,7/6/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4821,2023,6-Jul,7/6/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4822,2023,6-Jul,7/6/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4823,2023,7-Jul,7/7/23,Takotna River,NA,Chinook,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4824,2023,7-Jul,7/7/23,Takotna River,NA,Chum,8,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4825,2023,7-Jul,7/7/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4826,2023,7-Jul,7/7/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4827,2023,8-Jul,7/8/23,Takotna River,NA,Chinook,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4828,2023,8-Jul,7/8/23,Takotna River,NA,Chum,18,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4829,2023,8-Jul,7/8/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4830,2023,8-Jul,7/8/23,Takotna River,NA,Sockeye,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4831,2023,9-Jul,7/9/23,Takotna River,NA,Chinook,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4832,2023,9-Jul,7/9/23,Takotna River,NA,Chum,24,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4833,2023,9-Jul,7/9/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4834,2023,9-Jul,7/9/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4835,2023,10-Jul,7/10/23,Takotna River,NA,Chinook,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4836,2023,10-Jul,7/10/23,Takotna River,NA,Chum,21,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4837,2023,10-Jul,7/10/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4838,2023,10-Jul,7/10/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4839,2023,11-Jul,7/11/23,Takotna River,NA,Chinook,6,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4840,2023,11-Jul,7/11/23,Takotna River,NA,Chum,27,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4841,2023,11-Jul,7/11/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4842,2023,11-Jul,7/11/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4843,2023,12-Jul,7/12/23,Takotna River,NA,Chinook,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4844,2023,12-Jul,7/12/23,Takotna River,NA,Chum,44,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4845,2023,12-Jul,7/12/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4846,2023,12-Jul,7/12/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4847,2023,13-Jul,7/13/23,Takotna River,NA,Chinook,5,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4848,2023,13-Jul,7/13/23,Takotna River,NA,Chum,14,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4849,2023,13-Jul,7/13/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4850,2023,13-Jul,7/13/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4851,2023,14-Jul,7/14/23,Takotna River,NA,Chinook,8,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4852,2023,14-Jul,7/14/23,Takotna River,NA,Chum,68,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4853,2023,14-Jul,7/14/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4854,2023,14-Jul,7/14/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4855,2023,15-Jul,7/15/23,Takotna River,NA,Chinook,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4856,2023,15-Jul,7/15/23,Takotna River,NA,Chum,62,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4857,2023,15-Jul,7/15/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4858,2023,15-Jul,7/15/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4859,2023,16-Jul,7/16/23,Takotna River,NA,Chinook,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4860,2023,16-Jul,7/16/23,Takotna River,NA,Chum,52,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4861,2023,16-Jul,7/16/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4862,2023,16-Jul,7/16/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4863,2023,17-Jul,7/17/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4864,2023,17-Jul,7/17/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4865,2023,17-Jul,7/17/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4866,2023,17-Jul,7/17/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4867,2023,18-Jul,7/18/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4868,2023,18-Jul,7/18/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4869,2023,18-Jul,7/18/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4870,2023,18-Jul,7/18/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4871,2023,19-Jul,7/19/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4872,2023,19-Jul,7/19/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4873,2023,19-Jul,7/19/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4874,2023,19-Jul,7/19/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4875,2023,20-Jul,7/20/23,Takotna River,NA,Chinook,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4876,2023,20-Jul,7/20/23,Takotna River,NA,Chum,70,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4877,2023,20-Jul,7/20/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4878,2023,20-Jul,7/20/23,Takotna River,NA,Sockeye,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4879,2023,21-Jul,7/21/23,Takotna River,NA,Chinook,7,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4880,2023,21-Jul,7/21/23,Takotna River,NA,Chum,150,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4881,2023,21-Jul,7/21/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4882,2023,21-Jul,7/21/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4883,2023,22-Jul,7/22/23,Takotna River,NA,Chinook,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4884,2023,22-Jul,7/22/23,Takotna River,NA,Chum,116,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4885,2023,22-Jul,7/22/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4886,2023,22-Jul,7/22/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4887,2023,23-Jul,7/23/23,Takotna River,NA,Chinook,5,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4888,2023,23-Jul,7/23/23,Takotna River,NA,Chum,88,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4889,2023,23-Jul,7/23/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4890,2023,23-Jul,7/23/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4891,2023,24-Jul,7/24/23,Takotna River,NA,Chinook,7,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4892,2023,24-Jul,7/24/23,Takotna River,NA,Chum,163,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4893,2023,24-Jul,7/24/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4894,2023,24-Jul,7/24/23,Takotna River,NA,Sockeye,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4895,2023,25-Jul,7/25/23,Takotna River,NA,Chinook,10,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4896,2023,25-Jul,7/25/23,Takotna River,NA,Chum,166,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4897,2023,25-Jul,7/25/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4898,2023,25-Jul,7/25/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4899,2023,26-Jul,7/26/23,Takotna River,NA,Chinook,12,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4900,2023,26-Jul,7/26/23,Takotna River,NA,Chum,132,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4901,2023,26-Jul,7/26/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4902,2023,26-Jul,7/26/23,Takotna River,NA,Sockeye,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4903,2023,27-Jul,7/27/23,Takotna River,NA,Chinook,9,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4904,2023,27-Jul,7/27/23,Takotna River,NA,Chum,167,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4905,2023,27-Jul,7/27/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4906,2023,27-Jul,7/27/23,Takotna River,NA,Sockeye,4,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4907,2023,28-Jul,7/28/23,Takotna River,NA,Chinook,14,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4908,2023,28-Jul,7/28/23,Takotna River,NA,Chum,95,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4909,2023,28-Jul,7/28/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4910,2023,28-Jul,7/28/23,Takotna River,NA,Sockeye,8,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4911,2023,29-Jul,7/29/23,Takotna River,NA,Chinook,8,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4912,2023,29-Jul,7/29/23,Takotna River,NA,Chum,119,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4913,2023,29-Jul,7/29/23,Takotna River,NA,Coho,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4914,2023,29-Jul,7/29/23,Takotna River,NA,Sockeye,6,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4915,2023,30-Jul,7/30/23,Takotna River,NA,Chinook,8,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4916,2023,30-Jul,7/30/23,Takotna River,NA,Chum,112,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4917,2023,30-Jul,7/30/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4918,2023,30-Jul,7/30/23,Takotna River,NA,Sockeye,7,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4919,2023,31-Jul,7/31/23,Takotna River,NA,Chinook,7,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4920,2023,31-Jul,7/31/23,Takotna River,NA,Chum,100,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4921,2023,31-Jul,7/31/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4922,2023,31-Jul,7/31/23,Takotna River,NA,Sockeye,6,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4923,2023,1-Aug,8/1/23,Takotna River,NA,Chinook,5,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4924,2023,1-Aug,8/1/23,Takotna River,NA,Chum,111,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4925,2023,1-Aug,8/1/23,Takotna River,NA,Coho,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4926,2023,1-Aug,8/1/23,Takotna River,NA,Sockeye,9,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4927,2023,2-Aug,8/2/23,Takotna River,NA,Chinook,4,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4928,2023,2-Aug,8/2/23,Takotna River,NA,Chum,84,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4929,2023,2-Aug,8/2/23,Takotna River,NA,Coho,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4930,2023,2-Aug,8/2/23,Takotna River,NA,Sockeye,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4931,2023,3-Aug,8/3/23,Takotna River,NA,Chinook,4,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4932,2023,3-Aug,8/3/23,Takotna River,NA,Chum,77,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4933,2023,3-Aug,8/3/23,Takotna River,NA,Coho,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4934,2023,3-Aug,8/3/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4935,2023,4-Aug,8/4/23,Takotna River,NA,Chinook,4,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4936,2023,4-Aug,8/4/23,Takotna River,NA,Chum,86,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4937,2023,4-Aug,8/4/23,Takotna River,NA,Coho,5,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4938,2023,4-Aug,8/4/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4939,2023,5-Aug,8/5/23,Takotna River,NA,Chinook,3,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4940,2023,5-Aug,8/5/23,Takotna River,NA,Chum,54,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4941,2023,5-Aug,8/5/23,Takotna River,NA,Coho,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4942,2023,5-Aug,8/5/23,Takotna River,NA,Sockeye,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4943,2023,6-Aug,8/6/23,Takotna River,NA,Chinook,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4944,2023,6-Aug,8/6/23,Takotna River,NA,Chum,66,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4945,2023,6-Aug,8/6/23,Takotna River,NA,Coho,4,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4946,2023,6-Aug,8/6/23,Takotna River,NA,Sockeye,2,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4947,2023,7-Aug,8/7/23,Takotna River,NA,Chinook,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4948,2023,7-Aug,8/7/23,Takotna River,NA,Chum,20,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4949,2023,7-Aug,8/7/23,Takotna River,NA,Coho,0,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4950,2023,7-Aug,8/7/23,Takotna River,NA,Sockeye,1,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4951,2023,8-Aug,8/8/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4952,2023,8-Aug,8/8/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4953,2023,8-Aug,8/8/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4954,2023,8-Aug,8/8/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4955,2023,9-Aug,8/9/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4956,2023,9-Aug,8/9/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4957,2023,9-Aug,8/9/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4958,2023,9-Aug,8/9/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4959,2023,10-Aug,8/10/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4960,2023,10-Aug,8/10/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4961,2023,10-Aug,8/10/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4962,2023,10-Aug,8/10/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4963,2023,11-Aug,8/11/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4964,2023,11-Aug,8/11/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4965,2023,11-Aug,8/11/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4966,2023,11-Aug,8/11/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4967,2023,12-Aug,8/12/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4968,2023,12-Aug,8/12/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4969,2023,12-Aug,8/12/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4970,2023,12-Aug,8/12/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4971,2023,13-Aug,8/13/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4972,2023,13-Aug,8/13/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4973,2023,13-Aug,8/13/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4974,2023,13-Aug,8/13/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4975,2023,14-Aug,8/14/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4976,2023,14-Aug,8/14/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4977,2023,14-Aug,8/14/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4978,2023,14-Aug,8/14/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4979,2023,15-Aug,8/15/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4980,2023,15-Aug,8/15/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4981,2023,15-Aug,8/15/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4982,2023,15-Aug,8/15/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4983,2023,16-Aug,8/16/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4984,2023,16-Aug,8/16/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4985,2023,16-Aug,8/16/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4986,2023,16-Aug,8/16/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4987,2023,17-Aug,8/17/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4988,2023,17-Aug,8/17/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4989,2023,17-Aug,8/17/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4990,2023,17-Aug,8/17/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4991,2023,18-Aug,8/18/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4992,2023,18-Aug,8/18/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4993,2023,18-Aug,8/18/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4994,2023,18-Aug,8/18/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4995,2023,19-Aug,8/19/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4996,2023,19-Aug,8/19/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4997,2023,19-Aug,8/19/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4998,2023,19-Aug,8/19/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+4999,2023,20-Aug,8/20/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5000,2023,20-Aug,8/20/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5001,2023,20-Aug,8/20/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5002,2023,20-Aug,8/20/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5003,2023,21-Aug,8/21/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5004,2023,21-Aug,8/21/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5005,2023,21-Aug,8/21/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5006,2023,21-Aug,8/21/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5007,2023,22-Aug,8/22/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5008,2023,22-Aug,8/22/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5009,2023,22-Aug,8/22/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5010,2023,22-Aug,8/22/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5011,2023,23-Aug,8/23/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5012,2023,23-Aug,8/23/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5013,2023,23-Aug,8/23/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5014,2023,23-Aug,8/23/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5015,2023,24-Aug,8/24/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5016,2023,24-Aug,8/24/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5017,2023,24-Aug,8/24/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5018,2023,24-Aug,8/24/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5019,2023,25-Aug,8/25/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5020,2023,25-Aug,8/25/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5021,2023,25-Aug,8/25/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5022,2023,25-Aug,8/25/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5023,2023,26-Aug,8/26/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5024,2023,26-Aug,8/26/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5025,2023,26-Aug,8/26/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5026,2023,26-Aug,8/26/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5027,2023,27-Aug,8/27/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5028,2023,27-Aug,8/27/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5029,2023,27-Aug,8/27/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5030,2023,27-Aug,8/27/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5031,2023,28-Aug,8/28/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5032,2023,28-Aug,8/28/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5033,2023,28-Aug,8/28/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5034,2023,28-Aug,8/28/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5035,2023,29-Aug,8/29/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5036,2023,29-Aug,8/29/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5037,2023,29-Aug,8/29/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5038,2023,29-Aug,8/29/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5039,2023,30-Aug,8/30/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5040,2023,30-Aug,8/30/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5041,2023,30-Aug,8/30/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5042,2023,30-Aug,8/30/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5043,2023,31-Aug,8/31/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5044,2023,31-Aug,8/31/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5045,2023,31-Aug,8/31/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5046,2023,31-Aug,8/31/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5047,2023,1-Sep,9/1/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5048,2023,1-Sep,9/1/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5049,2023,1-Sep,9/1/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5050,2023,1-Sep,9/1/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5051,2023,2-Sep,9/2/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5052,2023,2-Sep,9/2/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5053,2023,2-Sep,9/2/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5054,2023,2-Sep,9/2/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5055,2023,3-Sep,9/3/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5056,2023,3-Sep,9/3/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5057,2023,3-Sep,9/3/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5058,2023,3-Sep,9/3/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5059,2023,4-Sep,9/4/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5060,2023,4-Sep,9/4/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5061,2023,4-Sep,9/4/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5062,2023,4-Sep,9/4/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5063,2023,5-Sep,9/5/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5064,2023,5-Sep,9/5/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5065,2023,5-Sep,9/5/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5066,2023,5-Sep,9/5/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5067,2023,6-Sep,9/6/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5068,2023,6-Sep,9/6/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5069,2023,6-Sep,9/6/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5070,2023,6-Sep,9/6/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5071,2023,7-Sep,9/7/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5072,2023,7-Sep,9/7/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5073,2023,7-Sep,9/7/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5074,2023,7-Sep,9/7/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5075,2023,8-Sep,9/8/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5076,2023,8-Sep,9/8/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5077,2023,8-Sep,9/8/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5078,2023,8-Sep,9/8/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5079,2023,9-Sep,9/9/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5080,2023,9-Sep,9/9/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5081,2023,9-Sep,9/9/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5082,2023,9-Sep,9/9/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5083,2023,10-Sep,9/10/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5084,2023,10-Sep,9/10/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5085,2023,10-Sep,9/10/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5086,2023,10-Sep,9/10/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5087,2023,11-Sep,9/11/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5088,2023,11-Sep,9/11/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5089,2023,11-Sep,9/11/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5090,2023,11-Sep,9/11/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5091,2023,12-Sep,9/12/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5092,2023,12-Sep,9/12/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5093,2023,12-Sep,9/12/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5094,2023,12-Sep,9/12/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5095,2023,13-Sep,9/13/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5096,2023,13-Sep,9/13/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5097,2023,13-Sep,9/13/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5098,2023,13-Sep,9/13/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5099,2023,14-Sep,9/14/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5100,2023,14-Sep,9/14/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5101,2023,14-Sep,9/14/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5102,2023,14-Sep,9/14/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5103,2023,15-Sep,9/15/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5104,2023,15-Sep,9/15/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5105,2023,15-Sep,9/15/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5106,2023,15-Sep,9/15/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5107,2023,16-Sep,9/16/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5108,2023,16-Sep,9/16/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5109,2023,16-Sep,9/16/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5110,2023,16-Sep,9/16/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5111,2023,17-Sep,9/17/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5112,2023,17-Sep,9/17/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5113,2023,17-Sep,9/17/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5114,2023,17-Sep,9/17/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5115,2023,18-Sep,9/18/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5116,2023,18-Sep,9/18/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5117,2023,18-Sep,9/18/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5118,2023,18-Sep,9/18/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5119,2023,19-Sep,9/19/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5120,2023,19-Sep,9/19/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5121,2023,19-Sep,9/19/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5122,2023,19-Sep,9/19/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5123,2023,20-Sep,9/20/23,Takotna River,NA,Chinook,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5124,2023,20-Sep,9/20/23,Takotna River,NA,Chum,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5125,2023,20-Sep,9/20/23,Takotna River,NA,Coho,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
+5126,2023,20-Sep,9/20/23,Takotna River,NA,Sockeye,NA,NA,NA,Single Run,NA,25,Takotna River Escapement,Counted Live
