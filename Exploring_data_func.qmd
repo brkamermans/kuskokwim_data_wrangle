@@ -30,9 +30,6 @@ You set up your working directory. The 'echo: false' option disables the printin
 ## Set your working directory to where your csv file is saved (MODIFY AS NEEDED):
 setwd("/Users/brandikamermans/Library/CloudStorage/GoogleDrive-brkamermans@alaska.edu/Shared drives/Kuskokwim salmon eDNA/")
 
-# Escapement data
-#escapement <- read_csv("./Data/ADFG_test/data_tidy_escapement_2022_2023.csv") 
-
 escapement <- read_csv("./Data/ADFG_test/data_tidy_escapement_allYrs.csv") %>%
   mutate(date = case_when(
     river == "Takotna River" ~ as.Date(date, format = "%Y-%m-%d"),
